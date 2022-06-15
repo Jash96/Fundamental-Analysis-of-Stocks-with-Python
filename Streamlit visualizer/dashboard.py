@@ -4,6 +4,7 @@ Created on Tue May 31 15:33:34 2022
 
 @author: Jashan
 """
+# RUN this file on terminal as "streamlit run dashboard.py" or "!streamlit run dashboard.py" on IDE
 
 import streamlit as st
 import yfinance as yf
