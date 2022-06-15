@@ -5,6 +5,8 @@ Created on Tue May 31 16:28:06 2022
 @author: Jashan
 """
 
+# RUN this file on terminal as "streamlit run Fundalit.py" or "!streamlit run Fundalit.py" on IDE
+
 import streamlit as st
 import pandas as pd
 import sqlalchemy
